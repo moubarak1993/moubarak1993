@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my world.</h1>
 
-<p>Hi there! </br> I'm <b>Mubarak Khalid</b>, a Cybersecurity Professional from <img src="https://cdn-icons-png.flaticon.com/512/197/197567.png" width="13"/> <b>Niger</b>, currently based in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Canada</b>. I’m passionate about mobile and tech apps, and I’m currently diving deeper into development with <b>Python</b> and <b>Java</b>.</p>
+<p>Hi there! </br> I'm <b>Mubarak Khalid</b>, a Cybersecurity Professional , I’m passionate about mobile and tech apps, and I’m currently diving deeper into development with <b>Python</b> and <b>Java</b>.</p>
 
 <h3>🛠 Technologies & Tools I'm learning and using</h3>
 <p>
